@@ -10,3 +10,9 @@ Initially I would be using project categories along with word vectors to suggest
 3. Given any new project, extract it's category, find the average word vector and find most similar vector from above list.
 4. Once you have most similar categories, get projects tagged under those categories.
 5. Finally get donors who have donated to projects found above.
+
+Sample outputs :
+
+![alt text](https://github.com/DarkKnight1991/Recommender_System/blob/master/images/Screen%20Shot%202018-09-24%20at%2012.25.56%20AM.png)
+
+![alt text](https://github.com/DarkKnight1991/Recommender_System/blob/master/images/Screen%20Shot%202018-09-24%20at%2012.26.08%20AM.png)
